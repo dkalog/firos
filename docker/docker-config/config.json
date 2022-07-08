@@ -1,0 +1,18 @@
+{
+    "environment": "local",
+    "local": {
+      "server": {
+          "port": 10100
+      },
+      "contextbroker": {
+          "address"   : "orion",
+          "port"      : 1026
+      },
+      "log_level": "INFO",
+      "endpoint":
+      {
+        "address": "firos",
+        "port": 1234
+      }
+    }
+  }

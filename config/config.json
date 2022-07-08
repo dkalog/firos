@@ -1,0 +1,19 @@
+{
+  "environment": "felice",
+
+  "felice": {
+    "node_name": "robot_firos",
+    "server": {
+        "port"      : 10100
+    },
+    "contextbroker": {
+        "address"   : "25.45.111.204",
+        "port"      : 1026
+    },
+    "endpoint": {
+      "address": "25.37.62.188",
+      "port": 5050
+    },
+    "log_level": "INFO"
+  }
+}

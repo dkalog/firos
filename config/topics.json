@@ -1,0 +1,5 @@
+{
+	"/ICCS/ObjectDetectionAndLocalization/ObjectPose": ["odl/ObjectPose", "subscriber", "GUID"],
+	"/ICCS/ObjectDetectionAndLocalization/Health": ["odl/Health", "subscriber", "GUID"],
+	"/ICCS/ObjectDetectionAndLocalization/ObjectId": ["odl/ObjectId", "subscriber", "GUID"]
+}

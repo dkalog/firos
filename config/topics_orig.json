@@ -1,0 +1,4 @@
+{
+	"/turtle1/pose": ["turtlesim/Pose", "subscriber"],
+	"/turtle1/cmd_vel": ["geometry_msgs/Twist", "publisher"]
+}

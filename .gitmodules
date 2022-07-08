@@ -1,0 +1,8 @@
+[submodule "firos/include/genpy"]
+	path = firos/include/genpy
+	url = https://github.com/ros/genpy.git
+	branch = main
+[submodule "firos/include/FiwareObjectConverter"]
+	path = firos/include/FiwareObjectConverter
+	url = https://gitlab.profactor.at/felice_eu/ros1_fiwareobjectconverter.git
+	branch = main
